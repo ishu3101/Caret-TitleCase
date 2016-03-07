@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Caret Title Case",
+  "description": "A Caret plugin that will convert the selected text to titlecase",
+  "version": "1.0.0",
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
