@@ -1,2 +1,2 @@
 # Caret Title Case
-A Caret plugin that will convert the selected text to titlecase
+A [Caret](http://thomaswilburn.net/caret/) plugin that will convert the selected text to titlecase
